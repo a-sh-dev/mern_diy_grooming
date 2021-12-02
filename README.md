@@ -1,8 +1,8 @@
 # DIY Grooming
 
-A team based project with the { W.A.N.T } team – Coder Academy FX1 Melbourne 2021
+A team based project with the { W.A.N.T } team – Coder Academy FX1 Melbourne 2021 to create a full-stack web application.
 
-### Briefly about the project
+### About the project
 
 The Notting Hill neighbourhood management approached us to help them create an online blog, dedicated to dog owners in the community. 
 
@@ -10,7 +10,7 @@ The online blog will be a platform to share and find step-by-step DIY dog groomi
 
 ---
 
-This team-based project is organised through GitHub organisation, 🏛 [DIY Grooming](https://github.com/DIYGrooming), which consists of separate repositories to manage the whole project better as a group:
+This team-based project is organised through GitHub organisation, 🏛 [DIY Grooming](https://github.com/DIYGrooming), which consists of separate repositories (micro-sites) to manage the whole full-stack project better as a group:
 
 Part A
 ------
