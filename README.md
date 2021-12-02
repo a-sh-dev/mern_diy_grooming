@@ -1,6 +1,6 @@
 # DIY Grooming
 
-A team based project with the { W.A.N.T } team – Coder Academy FX1 Melbourne 2021 to create a full-stack web application.
+Coder Academy FX1 Melbourne 2021 final project –– a team based project with the { W.A.N.T } team, to create a full-stack web application.
 
 ### About the project
 
@@ -19,6 +19,6 @@ Part A
 Part B
 ------
 
-🏭  Server Side - Back-end  →  tba  
+🏭  Server Side - Backend  →  [DIY Grooming Backend](https://github.com/DIYGrooming/server-backend)  
 
-🖥  Client Side - Front-end  →  tba  
+🖥  Client Side - Frontend  →  [DIY Grooming Frontend](https://github.com/DIYGrooming/client-frontend)  
