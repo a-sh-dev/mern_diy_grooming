@@ -1,18 +1,20 @@
 # DIY Grooming
 
-Coder Academy FX1 Melbourne 2021 final project –– a team collaboration project to create a full-stack web application.
+Coder Academy FX1 Melbourne 2021 final project –– a team collaboration to create a full-stack web application.
 
 ### About the project
 
 The Notting Hill neighbourhood management approached us to help them create an online blog dedicated to dog owners in the community.
 
-The online blog will be a platform to share and find step-by-step DIY dog grooming instructions. The Notting Hill neighbourhood community and anyone interested in DIY dog grooming can access the blog. Additionally, professional groomers can also register and share their tips and tricks. Furthermore, promote their services and be contacted when their service is needed. 
+The online blog is a platform to share and find step-by-step DIY dog grooming instructions. The Notting Hill neighbourhood community and anyone interested in DIY dog grooming can access the blog. Additionally, professional groomers can contribute and promote their services, and when needed, registered users can then contact them through the blog.
 
-<sub> &darr;  Please check part a for more information about the project and planning process.</sub>
+<sub> &darr;  Please check Part A for more information about the project and planning process.</sub>
 
 ---
 
-Utilising the GitHub organisation, 🏛 [DIY Grooming](https://github.com/DIYGrooming), the project is managed into separate repositories (micro-sites), which serves the whole full-stack project better as team collaboration.
+### Workflow
+
+We utilised the GitHub organisation to create a central 💦🐩✨ [DIY Grooming](https://github.com/DIYGrooming) repository for our team workflow. As a result, all members have access to better manage the separate sub-repositories (micro-sites) and help organise the full-stack project for team collaboration.
 
 Part A
 ------
