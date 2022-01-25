@@ -8,7 +8,7 @@ The Notting Hill neighbourhood management approached us to help them create an o
 
 The online blog is a platform to share and find step-by-step DIY dog grooming instructions. The Notting Hill neighbourhood community and anyone interested in DIY dog grooming can access the blog. Additionally, professional groomers can contribute and promote their services, and when needed, registered users can then contact them through the blog.
 
-<sub> &darr;  Please check Part A for more information about the project and planning process.</sub>
+<sub> &darr;  Please check Part A below for more information about the project and planning process.</sub>
 
 ---
 
@@ -33,6 +33,8 @@ We utilised the GitHub organisation to create a central 💦🐩✨ [DIY Groomin
 
 ### Project Details & Microsites
 
+<sub> &darr;  Please check Part A for more information about the project and planning process.</sub>
+
 Part A
 ------
 🗂 Documentations  →  [DIY Grooming Docs](https://github.com/DIYGrooming/docs)
@@ -54,9 +56,9 @@ Part B
 
 As a team of four members, three of us, including me, are mainly responsible for looking after the front-end side. I helped set up the initial project repositories suitable for team collaboration, such as utilising extra configuration for linters and format on save (e.g., `prettier`) to enforce code format consistency. 
 
-Being the only graphic designer, I also took the opportunity to create some high-fidelity wireframes to help other members visualise the design and provide guidance in styling. In addition to that, I managed to develop the global styling and theme for the blog to enforce style consistency and achieve a cohesive look.
+Being the only graphic designer, I also took the opportunity to create the branding and some high-fidelity wireframes to help other members visualise the UI design and provide guidance in styling. In addition to that, I managed to develop the global styling and theme for the blog to enforce style consistency and achieve a cohesive look.
 
-### Personal Reflection
+### ✨ Personal Reflection
 
 Communication has been the most challenging aspect of team collaboration. However, despite our limited individual skills and various personal circumstances, we worked well together and put up the current version of the blog on deployment! Indeed, there are still many improvements to be made. Some features have not been successfully implemented yet due to time constraints. 
 
