@@ -70,7 +70,7 @@ Few significant issues that I want to improve and be better at after submitting 
 
 - Unit testing or test-driven development (`TDD`) is the primary thing that we as a team want to improve and be good at, as, unfortunately, we're unable to implement it.
 
-- Better states management for both local and global (especially `Redux`)
+- Better states management for both local and global (especially `Redux`) as I tried to split some main components into smaller sub-components to enforce cleaner code and components reusability. For example, for the main `Create a post` form, I split it into the `Details` section and `Steps` or `Instructions` section.  <sub>For reference, please refer to the screenshot above.</sub>
 
 - Improve the site performance by fixing any memory leaks due to possible expensive API calls for loading the fetched data.
 
@@ -78,4 +78,4 @@ Few significant issues that I want to improve and be better at after submitting 
 
 - Finally, working on this project made me want to explore JavaScript more, mainly the DOM, to improve my understanding of how things (actually) work in React. 
 
-Nevertheless, it has been a hugely rewarding *"learning by doing"* experience. As a team, we decided to build a MERN project–a stack that we didn't formally learn at the boot camp. We used various external sources to build the project (thanks to YouTube). Moreover, *kanban* project management and team collaboration, especially `git`, have also been precious learning experiences. 
+Nevertheless, it has been a hugely rewarding *"learning by doing"* experience. As a team, we decided to build a MERN project–a stack that we didn't formally learn at the boot camp. We used various external sources to build the project (thanks to YouTube). Moreover, *kanban* project management and team collaboration, especially `Git`, have also been precious learning experiences. 
