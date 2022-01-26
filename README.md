@@ -1,3 +1,5 @@
+
+
 # DIY Grooming
 
 Coder Academy FX1 Melbourne 2021 final project –– a team collaboration to create a full-stack web application.
@@ -62,6 +64,8 @@ Being the only graphic designer, I also took the opportunity to create some high
 
 Communication has been the most challenging aspect of our team collaboration. However, despite our limited individual skills and various personal circumstances, we worked well together and put up the current blog version on deployment! Indeed, there are still many improvements to be made. Some features have not been successfully implemented yet due to time constraints. 
 
+Using `MongoDB` as a no-SQL database system (through `Mongoose`) for the first time was not as challenging as using `PostgreSQL` in Ruby on Rails. This is because the database queries and manipulations are the same as working on objects in JavaScript. However, I find the "strictness" in the relational database that often causes various alerts upon wrong implementations is somewhat helpful to ensure that the database implementations are correct. I would love to do another project to utilise MongoDB as the database (especially working on the backend for the setup and configuration).
+
 The most enjoyable part for me was creating the reusable dynamic-modular components and figuring out conditional rendering that can help improve the UI and UX on displaying data. Moreover, implementing Material UI or MUI has been enjoyable, too, despite the hiccups here and there when other non-standard-text field components are used on the main form (create a post form). 
 
 Unfortunately, at this stage, I failed to successfully implement the complete `CRUD` operations for the post (missing the update and delete implementations). Hopefully, I can revisit the issues and fix them as soon as possible!
@@ -74,7 +78,7 @@ Few significant issues that I want to improve and be better at after submitting 
 
 - Improve the site performance by fixing any memory leaks due to possible expensive API calls for loading the fetched data.
 
-- Explore a better form-management in React, such as utilising `React-hook-form` for form validations and integrating `Firebase` with the back-end for automatic image uploads–so that the user doesn't have to finalise or upload photos first before publishing the post. These issues will improve the overall UX.
+- Explore a better form-management in React, such as utilising `React-hook-form` for form validations and integrating `Firebase` with the backend for automatic image uploads–so that the user doesn't have to finalise or upload photos first before publishing the post. These issues will improve the overall UX.
 
 - Finally, working on this project made me want to explore JavaScript more, mainly the DOM, to improve my understanding of how things (actually) work in React. 
 
