@@ -37,14 +37,13 @@ We utilised the GitHub organisation to create a central 💦🐩✨ [DIY Groomin
 
 <sub> &darr;  Please check Part A for more information about the project and planning process.</sub>
 
-1️⃣  Part A – Planning & Detailed Documentations
-------
+### Part A – Planning & Detailed Documentations
+
 🗂 Documentations  →  [DIY Grooming Docs](https://github.com/DIYGrooming/docs)
 
 
 
-2️⃣  Part B – Development & Production
-------
+### Part B – Development & Production
 
 🏭  Server Side - Backend  →  [DIY Grooming Backend](https://github.com/DIYGrooming/server-backend)  
 
@@ -66,18 +65,19 @@ Being the only graphic designer, I also took the opportunity to create some high
 
 ## ✨ Personal Reflection
 
-##### Communication & Limited Individual Skills
+#### Communication & Limited Individual Skills
+
 Communication has been the most challenging aspect of our team collaboration. However, despite our limited individual skills and various personal circumstances, we worked well together and put up the current blog version on deployment! Indeed, there are still many improvements to be made. Some features have not been successfully implemented yet due to time constraints. 
 
 
 
-##### No-SQL Database
+#### No-SQL Database
 
 Using `MongoDB` as a no-SQL database system (through `Mongoose`) for the first time was not as challenging as using `PostgreSQL` in Ruby on Rails. This is because the database queries and manipulations are pretty much the same as working with objects in JavaScript. However, I find the "strictness" in the relational database that often causes various alerts upon wrong implementations is somewhat helpful to ensure that the database implementations are correct (I think I miss that from my previous [*marketplace project*](https://github.com/a-sh-dev/rails_pawsomes)). I would love to do another project to utilise MongoDB as the database (especially working on the backend for the setup and configuration).
 
 
 
-##### Enjoyable Parts & Known Issues
+#### Enjoyable Parts & Known Issues
 
 The most enjoyable part for me was creating reusable dynamic components and figuring out conditional rendering that can help improve the UI and UX on displaying data. Moreover, implementing `Material UI` or `MUI` has been enjoyable, too, despite the hiccups here and there when other non-standard-text field components are used on the main form (create a post form). 
 
